@@ -1,0 +1,40 @@
+ASSIGNMENT 1
+
+QUE1 WHAT IS CLOUD?
+ANS "
+The cloud" refers to servers that are accessed over the Internet,
+and the software and databases that run on those servers. 
+Cloud servers are located in data centers all over the world. 
+By using cloud computing, users and companies don't have to manage 
+physical servers themselves or run software applications on their own machines.
+
+
+QUE2 ADVANTAGES OF CLOUD?
+ANS 
+On-Demand Self-service
+Multi-tenancy
+Offers Resilient Computing
+Fast and effective virtualization
+Provide you low-cost software
+Offers advanced online security
+Location and Device Independence
+Always available, and scales automatically to adjust to the increase in demand
+Allows pay-per-use
+Web-based control & interfaces
+API Access available.
+
+QUE3 WHAT IS EC2?
+ANS
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure,
+resizable compute capacity in the cloud. It is designed to make web-scale cloud 
+computing easier for developers. Amazon EC2's simple web service interface 
+allows you to obtain and configure capacity with minimal friction.
+
+QUE4 DIFFERENT TYPES OF CLOUD?
+ANS
+nfrastructure as a Service (IaaS) ...
+Platform as a Service (PaaS)
+Software as a Service (SaaS) 
+Cloud.
+Hybrid.
+On-Premises.
